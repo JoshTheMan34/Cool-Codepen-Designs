@@ -1,0 +1,23 @@
+{
+  "name": "cool-codepen-designs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshTheMan34/Cool-Codepen-Designs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshTheMan34/Cool-Codepen-Designs/issues"
+  },
+  "homepage": "https://github.com/JoshTheMan34/Cool-Codepen-Designs#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
